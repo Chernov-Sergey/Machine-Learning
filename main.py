@@ -47,7 +47,6 @@ model.fit(X,y) # Обучение модели
 LogisticRegression()
 
 { col:[0] for col in X.columns }
-
 example = {
  'age': [70],
  'city_Екатеринбург': [0],
